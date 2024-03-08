@@ -9,7 +9,7 @@ The game comprises a rectangular field bounded on three sides. Each player posse
 ## Movement Mechanics
 
 ### Linear Movement
-Linear kinematics, utilizing the RK4 method, control the balls' movement along the track.
+Linear kinematics, utilizing the RK4 method, control the balls movement along the track.
 
 - Initial values of current position and velocity along the x and y axes are passed.
 - The return value includes the position and velocity of the ball in the next iteration.
