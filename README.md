@@ -6,9 +6,14 @@ The game comprises a rectangular field bounded on three sides. Each player posse
 - Players take turns throwing their balls until all 6 balls are on the field. 
 - Points are awarded based on the proximity of a player's balls to the white ball compared to their opponent's balls, with a maximum of 3 points per ball.
 
-<div align="center">
-  <video src="images/example.mov" width="400" />
-</div>
+![Preview](images/example.mov)
+
+<center>
+  <video width="320" height="240" controls>
+    <source src="images/example.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</center>
 
 ## Movement Mechanics
 
