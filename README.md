@@ -38,5 +38,3 @@ To expedite collision detection, the sweep and prune mechanism is employed.
 
 - We sort the y-coordinates of all balls and check for potential collisions.
 - The process iterates through all balls on the field, checking only for collisions within the range formed by at least 2 balls.
-
-![Preview](images/start.png)
