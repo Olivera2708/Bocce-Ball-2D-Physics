@@ -6,6 +6,8 @@ The game comprises a rectangular field bounded on three sides. Each player posse
 - Players take turns throwing their balls until all 6 balls are on the field. 
 - Points are awarded based on the proximity of a player's balls to the white ball compared to their opponent's balls, with a maximum of 3 points per ball.
 
+![Preview](images/start.mov)
+
 ## Movement Mechanics
 
 ### Linear Movement
@@ -36,3 +38,5 @@ To expedite collision detection, the sweep and prune mechanism is employed.
 
 - We sort the y-coordinates of all balls and check for potential collisions.
 - The process iterates through all balls on the field, checking only for collisions within the range formed by at least 2 balls.
+
+![Preview](images/start.png)
