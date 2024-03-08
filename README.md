@@ -8,6 +8,10 @@ The game comprises a rectangular field bounded on three sides. Each player posse
 
 ![Preview](images/example.mov)
 
+<div align="center">
+  <img src="images/example.mov" alt="Preview">
+</div>
+
 ## Movement Mechanics
 
 ### Linear Movement
