@@ -7,7 +7,7 @@ The game comprises a rectangular field bounded on three sides. Each player posse
 - Points are awarded based on the proximity of a player's balls to the white ball compared to their opponent's balls, with a maximum of 3 points per ball.
 
 <div align="center">
-  <img src="images/example.mov" alt="Preview">
+  <img src="images/example.mp4" alt="Preview">
 </div>
 
 ## Movement Mechanics
